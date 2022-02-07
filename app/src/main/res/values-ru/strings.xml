@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AAID info</string>
+    <string name="copy">КОПИРОВАТЬ</string>
+    <string name="text_copy">Текст скопирован</string>
+    <string name="settings">AAID настройки</string>
+    <string name="share">ПОДЕЛИТСЯ</string>
+    <string name="error">Ошибка</string>
+</resources>

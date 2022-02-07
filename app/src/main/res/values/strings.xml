@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AAID info</string>
+    <string name="copy">COPY</string>
+    <string name="text_copy">Copied Text</string>
+    <string name="settings">AAID SETTINGS</string>
+    <string name="share">SHARE</string>
+    <string name="error">Error</string>
+    <string name="text" translatable="false">AAID (Google Advertising ID)</string>
+
+</resources>
